@@ -322,3 +322,6 @@ public class MainActivity extends Activity {
 ### 成果展示
 
 ![成果](png/成果.gif)
+
+
+更新  如果呼叫 ```.MainActivity```可能可以嘗試```com.example.opencv.MainActivity```
